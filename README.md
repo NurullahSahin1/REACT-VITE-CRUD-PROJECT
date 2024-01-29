@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # REACT-VITE-CRUD-PROJECT
 # REACT-VITE-CRUD-PROJECT
 # REACT-VITE-CRUD-PROJECT
+# REACT-VITE-CRUD-PROJECT
