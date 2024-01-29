@@ -1,15 +1,10 @@
-# React + Vite
+<h2>REACT-VITE-CRUD-PROJECT</h2>
+<h3> React and Vite CRUD Project</h3>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p> This project is a CRUD (Create, Read, Update, Delete) application designed using React and Vite libraries. The main functionality allows users to create, edit, and delete notes with different categories. Additionally, the application features pagination, enabling users to organize notes into pages, with each page displaying up to 10 notes.</p>
 
-Currently, two official plugins are available:
+<h3> Getting Started</h3>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# REACT-VITE-CRUD-PROJECT
-# REACT-VITE-CRUD-PROJECT
-# REACT-VITE-CRUD-PROJECT
-# REACT-VITE-CRUD-PROJECT
-# REACT-VITE-CRUD-PROJECT
-# REACT-VITE-CRUD-PROJECT
-# REACT-VITE-CRUD-PROJECT
+<h3>Ekran Goruntusu</h3>
+
+![](ekrangoruntusu.gif)
